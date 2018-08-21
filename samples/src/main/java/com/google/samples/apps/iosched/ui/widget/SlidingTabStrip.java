@@ -42,6 +42,7 @@ class SlidingTabStrip extends LinearLayout {
     private final int mDefaultBottomBorderColor;
 
     private int mSelectedPosition;
+
     private float mSelectionOffset;
 
 

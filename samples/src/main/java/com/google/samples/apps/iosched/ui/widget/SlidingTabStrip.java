@@ -54,6 +54,8 @@ class SlidingTabStrip extends LinearLayout {
 
 
 
+
+
     private SlidingTabLayout.TabColorizer mCustomTabColorizer;
     private final SimpleTabColorizer mDefaultTabColorizer;
 
